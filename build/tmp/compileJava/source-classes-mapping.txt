@@ -1,0 +1,8 @@
+domain/Event.java
+ domain.Event
+domain/CustomerRegistered.java
+ domain.CustomerRegistered
+domain/RegisterCustomer.java
+ domain.RegisterCustomer
+domain/Customer.java
+ domain.Customer
